@@ -8,7 +8,7 @@
 
 ![example](./example.png)
 
-$$ \displaystyle P = \begin{pmatrix}
+$$ P = \begin{pmatrix}
 \frac{3}{4} & 0           & \frac{1}{4}
 1           & 0           & 0
 \frac{1}{3} & \frac{1}{2} & \frac{1}{6}

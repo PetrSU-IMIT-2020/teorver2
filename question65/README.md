@@ -7,6 +7,6 @@ $Y \approx g(X) = \alpha X + \beta$ , где $\alpha$  и $\beta$ - параме
 
 Линейная средняя квадратическая регрессия $Y$ на $X$ имеет вид
 
-$g(X) = m_y + r \frac{\sigma_y}{\sigma_x}(X - m_x)$, где $m_x = M(X)$, $m_y = M(Y)$, $\sigma_x = \sqrt{D(X)}$, $\sigma_y = \sqrt{D(Y)}$, $r = \mu_{xy} / (\sigma_x\sigma_y)$ — *коэффициент корреляции величин $X$ и $Y$*. 
+$g(X) = m_y + r \frac{\sigma_y}{\sigma_x}(X - m_x)$, где $m_x = M(X)$, $m_y = M(Y)$, $\sigma_x = \sqrt{D(X)}$, $\sigma_y = \sqrt{D(Y)}$, $r = \mu_{xy} / (\sigma_x\sigma_y)$ — коэффициент корреляции величин $X$ и $Y$. 
 
 $r \frac{\sigma_y}{\sigma_x}$ - коэффициент регрессии $X$ на $Y$.

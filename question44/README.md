@@ -1,4 +1,7 @@
-## Теорема 3
+# Билет №44. Теорема о распределении случайной величины
+
+$$\frac{m_1n_2(n_1 - 1)}{m_2n_1(n_2 - 1)}
+
 Пусть $X_1$, ..., $X_{n_1}$, $X_1^\prime$, ..., $X_{n_2}^\prime$ - независимые случайные величины $\sim N(a,\sigma)$
 
 Рассмотрим $\overline{x} = \frac{1}{n_1}\sum\limits_{i=1}^{n_1} X_i$ и $m_2 = \frac{1}{n_1}\sum\limits_{i=1}^{n_1} (X_i - \overline{x})^2$, $\overline{x}^\prime = \frac{1}{n_2}\sum\limits_{i=1}^{n_2} X_i^\prime$ и $m_2^\prime = \frac{1}{n_2}\sum\limits_{i=1}^{n_2} (X_i^\prime - \overline{x}^\prime)^2$

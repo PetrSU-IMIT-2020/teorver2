@@ -20,9 +20,9 @@ $\displaystyle \beth \xi$ - дискретная СВ; задаётся зако
 
 $\displaystyle \tilde x_1$ | $\displaystyle \tilde x_2$ | $\displaystyle \cdots$ | $\displaystyle \tilde x_k$
 :---: | :---: | :---: | :---:
-$\displaystyle \omega_1$ | $\displaystyle \omega_2$ | $\displaystyle \cdots$ | $\displaystyle \omega_k |
+$\displaystyle \omega_1$ | $\displaystyle \omega_2$ | $\displaystyle \cdots$ | $\displaystyle \omega_k$ |
 
-\omega_i = \frac{n_i}{n} $ - относительная частота.
+$ \omega_i = \frac{n_i}{n} $ - относительная частота.
 
 $\displaystyle n_i$ - кол-во элементов $\displaystyle \tilde x_i$, оказавшихся в выборке. 
 

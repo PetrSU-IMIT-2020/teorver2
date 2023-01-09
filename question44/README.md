@@ -1,0 +1,16 @@
+## Теорема 3
+Пусть $X_1$, ..., $X_{n_1}$, $X_1^\prime$, ..., $X_{n_2}^\prime$ - независимые случайные величины $\sim N(a,\sigma)$
+
+Рассмотрим $\overline{x} = \frac{1}{n_1}\sum\limits_{i=1}^{n_1} X_i$ и $m_2 = \frac{1}{n_1}\sum\limits_{i=1}^{n_1} (X_i - \overline{x})^2$, $\overline{x}^\prime = \frac{1}{n_2}\sum\limits_{i=1}^{n_2} X_i^\prime$ и $m_2^\prime = \frac{1}{n_2}\sum\limits_{i=1}^{n_2} (X_i^\prime - \overline{x}^\prime)^2$
+
+Величина $\Huge\frac{m_2}{m_2^\prime}\cdot\frac{n_1}{n_2}\cdot\frac{n_2-1}{n_1-1} \sim F_{n_2-1,n_1-1}$ - имеет распределение Фишера с $n_2-1$ и $n_1-1$ степенями свободы 
+## Создатель
+
+Автор расписанного билета: Беленков Коля
+
+Кто проверил:
+
+
+## Ресурсы
+- лекции
+- лекции Рогова А.А.

@@ -15,9 +15,9 @@
 
 ### Пример для $\displaystyle \bar x$
 
-$\displaystyle M_{\xi}$ - мат ожидание - $\displaystyle M[x_i]$
+$\displaystyle M_{\xi}$ - мат ожидание $\displaystyle M[X_i]$
 
-$\displaystyle M[\bar x] = M[\frac{x_1 + x_2 + \cdots + x_n}{n}] = \frac{1}{n} \sum_{i=1}^{n} M[x_i] = M_{\xi} \Longrightarrow$ несмещённая
+$\displaystyle M[\bar x] = M[\frac{x_1 + x_2 + \cdots + x_n}{n}] = \frac{1}{n} \sum_{i=1}^{n} M[x_i] = M_{\X_i} \Longrightarrow$ несмещённая
 
 
 ## Создатель

@@ -30,3 +30,4 @@ $\beta_3 = M[(\xi - M_\xi)^3]$
 ## Ресурсы
 - лекции Рогова А.А. с прошлого года
 - [дополнительный ресурс](https://fin-accounting.ru/cfa/l1/quantitative/cfa-symmetry-skewness-in-return-distributions)
+- [дополнительный ресурс](https://nti.s-vfu.ru/sveden/files/TViMS_VARIACIONNYE_RYADY_I_IX_CHISLOVYE_XARAKTERISTIKI(4).pdf)

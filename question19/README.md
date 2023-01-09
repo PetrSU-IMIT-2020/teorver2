@@ -16,6 +16,15 @@
 
 $\displaystyle \beth \xi$ - дискретная СВ; задаётся законом распределения $\displaystyle (\tilde x_i,P_i)_{i \in I} $
 
+Вариационный ряд частот:
+
+$$\displaystyle
+
+\tilde x_1 | \tilde x_2 | \cdots | \tilde x_k \\
+n_1 | n_2 | \cdots | n_k | 
+
+$$
+
 ## Создатель
 
 Автор расписанного билета: Клюшов Никита

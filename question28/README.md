@@ -7,7 +7,7 @@ $m_2 = \frac{1}{n} \sum\limits_{i=1}^{n}(x_i - \bar{x})^2$ - выборочна�
 
 Доказательство:
 
-$m_2 = \frac{1}{n} \sum\limits_{i=1}^{n}(x_i - \bar{x})^2 = \frac{1}{n} \sum\limits_{i=1}^{n}({x_i}^2 - 2\bar{x}x_i + \bar{x}^2) = \frac{1}{n} \sum\limits_{i=1}^{n}{x_i}^2 - \frac{2}{n} \bar(x)\sum\limits_{i=1}^{n}x_i + \frac{1}{n} \sum\limits_{i=1}^{n}\bar{x}^2 = \frac{1}{n} \sum\limits_{i=1}^{n}{x_i}^2 - \bar{x}^2 = a_2 - {a_1}^2$
+$m_2 = \frac{1}{n} \sum\limits_{i=1}^{n}(x_i - \bar{x})^2 = \frac{1}{n} \sum\limits_{i=1}^{n}({x_i}^2 - 2\bar{x}x_i + \bar{x}^2) = \frac{1}{n} \sum\limits_{i=1}^{n}{x_i}^2 - \frac{2}{n} \bar{x}\sum\limits_{i=1}^{n}x_i + \frac{1}{n} \sum\limits_{i=1}^{n}\bar{x}^2 = \frac{1}{n} \sum\limits_{i=1}^{n}{x_i}^2 - \bar{x}^2 = a_2 - {a_1}^2$
 
 $a_2 - {a_1}^2$ - выборочные начальные моменты
 

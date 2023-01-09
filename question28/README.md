@@ -3,7 +3,7 @@
 
 $m_k = \frac{1}{n} \sum_{i=1}^{n}(x_1 - \bar{x})^k$
 
-$\sum^{10}_{n=1}n$
+$\sum\limits_{n=1}n$
 
 ## Создатель
 

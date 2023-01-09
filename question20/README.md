@@ -22,9 +22,7 @@ $\displaystyle \tilde x_1$ | $\displaystyle \tilde x_2$ | $\displaystyle \cdots$
 :---: | :---: | :---: | :---:
 $\displaystyle \omega_1$ | $\displaystyle \omega_2$ | $\displaystyle \cdots$ | $\displaystyle \omega_k$ |
 
-f
-
-$ \omega_i = \frac{n_i}{n} $ - относительная частота.
+$ x = y \omega_i = \frac{n_i}{n} $ - относительная частота.
 
 $\displaystyle n_i$ - кол-во элементов $\displaystyle \tilde x_i$, оказавшихся в выборке. 
 

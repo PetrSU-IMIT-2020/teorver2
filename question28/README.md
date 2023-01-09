@@ -3,7 +3,7 @@
 
 $m_k = \frac{1}{n} \sum\limits_{i=1}^{n}(x_i - \bar{x})^k$
 
-$m_2 = \frac{1}{n} \sum\limits_{i=1}^{n}(x_i - \bar{x})^2$ - выборочная дисперсия
+$m_2 = \frac{1}{n} \sum\limits_{i=1}^{n}{x_i}^2 - \bar{x}^2$ - выборочная дисперсия
 
 Доказательство:
 

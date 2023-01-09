@@ -18,11 +18,11 @@ $\displaystyle \beth \xi$ - дискретная СВ; задаётся зако
 
 Вариационный ряд частот:
 
-$\tilde x_1$ | $\tilde x_2$ | $\cdots$ | $\tilde x_k$
+$\displaystyle \tilde x_1$ | $\displaystyle \tilde x_2$ | $\displaystyle \cdots$ | $\displaystyle \tilde x_k$
 :---: | :---: | :---: | :---:
-$n_1$ | $n_2$ | $\cdots$ | $n_k$ |
+$\displaystyle n_1$ | $\displaystyle n_2$ | $\displaystyle \cdots$ | $\displaystyle n_k$ |
 
-$n_i$ - кол-во элементов $\tilde x_i$, оказавшихся в выборке. $\displaystyle \sum_{i=1}^{k} n_i = n $
+$\displaystyle n_i$ - кол-во элементов $\displaystyle \tilde x_i$, оказавшихся в выборке. $\displaystyle \sum_{i=1}^{k} n_i = n $
 
 ## Создатель
 

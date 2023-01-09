@@ -2,7 +2,7 @@
 
 $\Theta_n^{\*}$ - асссимптотически эффективная, если
 
-$\lim{n \to \infty}{\frac{M[(\Theta - \Theta_n^{\*})^2]}{inf\limits_{\Theta_n^{\*\*}}{1} \ M[(\Theta - \Theta_n^{\*\*})^2]}} = 1$
+$\lim{n \to \infty}{\frac{M[(\Theta - \Theta_n^{\*})^2]}{inf\prod\limits_{\Theta_n^{\*\*}} \ M[(\Theta - \Theta_n^{\*\*})^2]}} = 1$
 
 ## Создатель
 

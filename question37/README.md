@@ -18,7 +18,7 @@ $A = \frac{\beta_3}{\delta^3}$
 
 $b_3 = \frac{1}{n} \sum\limits_{i=1}^{n}(x_i - \bar{x})^3$
 
-$\beta_3 = M[(\xi - M_xi)^3]$
+$\beta_3 = M[(\xi - M_\xi)^3]$
 
 ## Создатель
 

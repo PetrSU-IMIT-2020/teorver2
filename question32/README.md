@@ -14,11 +14,11 @@
 $\displaystyle \forall \epsilon > 0: $
 
 
-$\displaystyle \lim_{n \to \inf} P(| \theta_{n}^{\*} - \theta | < \epsilon) = 1 $
+$\displaystyle \lim_{n \to \infty} P(| \theta_{n}^{\*} - \theta | < \epsilon) = 1 $
 
 или
 
-$\displaystyle P(| \theta_{n}^{\*} - \theta | < \epsilon) \xrightarrow{n \to \infty} 1 $
+$\displaystyle P(| \theta_{n}^{\*} - \theta | < \epsilon) \xrightarrow[n \to \infty]{} 1 $
 
 или
 

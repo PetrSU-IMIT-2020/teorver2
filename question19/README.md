@@ -24,6 +24,10 @@ $\displaystyle n_1$ | $\displaystyle n_2$ | $\displaystyle \cdots$ | $\displayst
 
 $\displaystyle n_i$ - кол-во элементов $\displaystyle \tilde x_i$, оказавшихся в выборке. $\displaystyle \sum_{i=1}^{k} n_i = n $
 
+## Пример
+
+![example](./image.png)
+
 ## Создатель
 
 Автор расписанного билета: Клюшов Никита

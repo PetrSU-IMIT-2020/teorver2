@@ -10,6 +10,8 @@ $\widetilde{E} = \frac{b_4}{\widetilde{\delta}^4} - 3$
 
 $E = \frac{\beta_4}{\delta^4} - 3$
 
+![image](https://user-images.githubusercontent.com/78729103/211385001-f180d91a-e6aa-43ce-a566-4a30a62ad715.png)
+
 ## Создатель
 
 Автор расписанного билета: Кузнецова Елизавета

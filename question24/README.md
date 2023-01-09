@@ -18,7 +18,7 @@ $M[\overline{x}] = M[\frac{x_1 + ... + x_n}{n}]= \frac{1}{n}\sum\limits_{i = 1}^
 
 $M[\Theta^*n] = \alpha\Theta$ следовательно $\Theta^{**}n = \frac{1}{\alpha}\Theta^*n$ - несмещенная оценка
 
-$M[\Theta^{**}n] = \Theta$ исправление статистической оценки
+$M[\Theta^{**}n] = \Theta$. Исправление статистической оценки
 
 ## Создатель
 

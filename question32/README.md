@@ -18,7 +18,7 @@ $\displaystyle \lim_{n \to \inf} P(| \theta_{n}^{\*} - \theta | < \epsilon) = 1 
 
 или
 
-$\displaystyle P(| \theta_{n}^{\*} - \theta | < \epsilon) \longrightarrow{n \to \inf} 1 $
+$\displaystyle P(| \theta_{n}^{\*} - \theta | < \epsilon) \longrightarrow[n \to \inf]{} 1 $
 
 или
 

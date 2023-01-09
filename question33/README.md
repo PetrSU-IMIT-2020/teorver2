@@ -15,6 +15,10 @@ $\displaystyle \theta^{\*}$ более эффективна чем $\displaystyl
 
 $\displaystyle M[(\theta - \theta^{\*})^2] < M[(\theta - \theta^{\*\*})^2] $
 
+$\displaystyle \theta^{\*}$ эффективная, если:
+
+$\displaystyle M[(\theta - \theta^{\*})^2] = \inf_{\theta^{\*\*}} M[(\theta - \theta^{\*})^2] $
+
 
 ### Пример
 

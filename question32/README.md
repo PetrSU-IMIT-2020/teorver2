@@ -9,12 +9,12 @@
 
 ### Определение
 
-Статистическая оценка  $\displaystyle \theta_{n}^{\*}$ **называется состоятельной**, если она сходится по вероятности к оцениваемому параметру, т.е для любого достаточно малого числа $\displaystyle \epsi $.
+Статистическая оценка  $\displaystyle \theta_{n}^{\*}$ **называется состоятельной**, если она сходится по вероятности к оцениваемому параметру, т.е для любого достаточно малого числа $\displaystyle \epsilon $.
 
-$\displaystyle \forall \epsi > 0: $
+$\displaystyle \forall \epsilon > 0: $
 
 
-$\displaystyle \lim_{n \to \inf} P(| \theta_{n}^{\*} - \theta | < \epsi) = 1 $
+$\displaystyle \lim_{n \to \inf} P(| \theta_{n}^{\*} - \theta | < \epsilon) = 1 $
 
 
 или

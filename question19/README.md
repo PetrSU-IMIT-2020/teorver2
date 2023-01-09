@@ -18,12 +18,9 @@ $\displaystyle \beth \xi$ - дискретная СВ; задаётся зако
 
 Вариационный ряд частот:
 
-$$\displaystyle
-
-\tilde x_1 | \tilde x_2 | \cdots | \tilde x_k \\
-n_1 | n_2 | \cdots | n_k | 
-
-$$
+$\tilde x_1$ | $\tilde x_2$ | $\cdots$ | $\tilde x_k$ \\
+:---: | :---: | :---: | :---:
+$n_1$ | $n_2$ | $\cdots$ | $n_k$ | 
 
 ## Создатель
 

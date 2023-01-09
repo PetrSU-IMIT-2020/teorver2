@@ -17,7 +17,7 @@
 
 $\displaystyle M_{\xi}$ - мат ожидание $\displaystyle M[X_i]$
 
-$\displaystyle M[\bar x] = M[\frac{x_1 + x_2 + \cdots + x_n}{n}] = \frac{1}{n} \sum_{i=1}^{n} M[X_i] = M_{\xi} \Longrightarrow$ несмещённая
+$\displaystyle M[\bar X] = M[\frac{x_1 + x_2 + \cdots + x_n}{n}] = \frac{1}{n} \sum_{i=1}^{n} M[X_i] = M_{\xi} \Longrightarrow$ случайная величина $\displaystyle \bar X $ - это несмещенная оценка математического ожидания генеральной совокупности.
 
 
 ## Создатель

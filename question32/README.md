@@ -18,7 +18,7 @@ $\displaystyle \lim_{n \to \infty} P(| \theta_{n}^{\*} - \theta | < \epsilon) = 
 
 или
 
-$\displaystyle P(| \theta_{n}^{\*} - \theta | < \epsilon) \xrightarrow[n \to \infty]{} 1 $
+$\displaystyle \theta_{n}^{\*} \xrightarrow[n \to \infty]{P} \theta $
 
 или
 

@@ -19,3 +19,4 @@ $E = \frac{\beta_4}{\delta^4} - 3$
 
 ## Ресурсы
 - лекции Рогова А.А. с прошлого года
+- [дополнительный ресурс](https://nti.s-vfu.ru/sveden/files/TViMS_VARIACIONNYE_RYADY_I_IX_CHISLOVYE_XARAKTERISTIKI(4).pdf)

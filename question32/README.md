@@ -14,16 +14,19 @@
 $\displaystyle \forall \epsilon > 0: $
 
 
-$\displaystyle \lim_{n \to \infty} P(| \theta_{n}^{\*} - \theta | < \epsilon) = 1 $
+$\displaystyle \lim_{n \to \infty} P(| \theta_{n}^{\*} - \theta | < \epsilon) = 1 $: предел вероятности того, что оценка $\displaystyle \theta_{n}^{\*} $ отличается от параметра $\displaystyle \theta $ по абсолютной величине меньше чем на $\displaystyle \epsilon $ при ограниченном увеличении объёма выборки равно 1, т.е. улучшение оценки увеличением объёма выборки.
 
-или
+При большом объёме выборки вер-ть больших отклонений оценки от истинного значения мала 
+
+**или**
+
+$\displaystyle P(| \theta_{n}^{\*} - \theta | < \epsilon) \xrightarrow[n \to \infty]{} 1 $
+
+**или**
 
 $\displaystyle \theta_{n}^{\*} \xrightarrow[n \to \infty]{P} \theta $
 
-или
-
-$\displaystyle \lim_{n \to \inf} P(| \theta_{n}^{\*} - \theta | < \epsilon) = 1 $
-
+> Из неравенства Чебышева следует (закон больших чисел), что несмещенная оценка, дисперсия которой $\displaystyle \to 0 $, при $\displaystyle n \to \infty $, является состоятельной.
 
 ### Пример
 

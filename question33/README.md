@@ -9,15 +9,15 @@
 
 ### Определение
 
-Статистическая оценка $\displaystyle \theta^{\*}$ называется **эффективной**, если при данном объеме выборки из всех возможных оценок она имеет наименьшую дисперсию.
+Статистическая оценка $\displaystyle \theta_n^{\*}$ называется **эффективной**, если при данном объеме выборки из всех возможных оценок она имеет наименьшую дисперсию.
 
-$\displaystyle \theta^{\*}$ более эффективна чем $\displaystyle \theta^{\*\*}$, если:
+$\displaystyle \theta_n^{\*}$ более эффективна чем $\displaystyle \theta_n^{\*\*}$, если:
 
-$\displaystyle M[(\theta - \theta^{\*})^2] < M[(\theta - \theta^{\*\*})^2] $
+$\displaystyle M[(\theta - \theta_n^{\*})^2] < M[(\theta - \theta_n^{\*\*})^2] $
 
-$\displaystyle \theta^{\*}$ эффективная, если:
+$\displaystyle \theta_n^{\*}$ эффективная, если:
 
-$\displaystyle M[(\theta - \theta^{\*})^2] = \inf_{\theta^{\*\*}} M[(\theta - \theta^{\*})^2] $
+$\displaystyle M[(\theta - \theta_n^{\*})^2] = \inf_{\theta_n^{\*\*}} M[(\theta - \theta_n^{\*})^2] $
 
 
 ### Пример

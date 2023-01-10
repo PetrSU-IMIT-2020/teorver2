@@ -2,8 +2,8 @@
 
 Для первой выборки строим эмпирическую функцию
 
-$$
-F^*(x)=
+$$ \displaystyle
+F^* (x)=
 \begin{equation*}
 \begin{cases}
 0, x < x_1\\
@@ -13,16 +13,15 @@ F^*(x)=
 \end{equation*}
 $$
 
-Аналогично строим для второй — $G^*(y)$. n — количество элементов первой выборки, $m$ — количество элементов второй 
+Аналогично строим для второй — $G^* (y)$. n — количество элементов первой выборки, $m$ — количество элементов второй 
 
-Рассмотрим $\Delta^*(n, m) = \max_{z}[F^*(z) - G^*(z)]; \quad
-\Delta(n, m) = \sup[F^*(z) - G^*(z)]$
+Рассмотрим $\Delta^* (n, m) = \max_{z}[F^* (z) - G^* (z)]; \quad \Delta(n, m) = \sup[F^* (z) - G^* (z)]$
 
 Как доказал Смирнов при $(n, m) \to \infty$
 
-$\Phi^*_{nm} = P\{\sqrt{\frac{nm}{n+m}}\cdot D^*(n, m) < z\} \to 1 - e^{2z^2}$ при $z \geq 0$
+$\displaystyle \Phi_{nm}^* = P\{\sqrt{\frac{nm}{n+m}}\cdot D^* (n, m) < z\} \to 1 - e^{2z^2}$ при $z \geq 0$
 
-$\Phi_{nm} = P\{\sqrt{\frac{nm}{n+m}}\cdot D(n, m) < z\} \to K(z) = \sum_{k = -\infty}^{+\infty}(-1)^ke^{-2k^2z^2}$ при $z \geq 0$
+$\displaystyle \Phi_{nm} = P\{\sqrt{\frac{nm}{n+m}}\cdot D(n, m) < z\} \to K(z) = \sum_{k = -\infty}^{+\infty}(-1)^ke^{-2k^2z^2}$ при $z \geq 0$
 
 $K(z)$  — функция Колмогорова
 

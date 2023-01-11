@@ -5,7 +5,7 @@ $\Huge t_n$ = $\Huge\frac{\xi_0}{\sqrt{\frac{1}{n}\sum\limits_{i = 1}^n \xi_i^2}
 ## Матожидание
 $\xi \sim t_n, n > 1 \Rightarrow M_{\xi} = 0$ 
 ## Дисперсия
-$\xi \sim t_n, n > 2 \Rightarrow M_{\xi} = \frac{n}{n-2}$ 
+$\xi \sim t_n, n > 2 \Rightarrow D_{\xi} = \frac{n}{n-2}$ 
 ## Создатель
 
 Автор расписанного билета: Беленков Коля

@@ -21,7 +21,7 @@ $\displaystyle P_{ij} = P(S(t + \delta t) = j \/_{S(t) = i})$
 
 $\lambda_{ij}(t)$ -- поток переводящей системы из i в j
 
-$\displaystyle p\'(t) = \sum_{j=1}^i p_{i}(t) \cdot \lambda_{ji}(t) - p_{i}(t) \cdot \sum_{1}^m \lambda_{ij}(t)$ -- система дифф. уравнений Колмагорова
+$\displaystyle p_i\'(t) = \sum_{j=1}^i p_{i}(t) \cdot \lambda_{ji}(t) - p_{i}(t) \cdot \sum_{1}^m \lambda_{ij}(t)$ -- система дифф. уравнений Колмагорова
 
 ## Создатель
 

@@ -17,7 +17,7 @@ $\displaystyle M[(\theta - \theta_n^{\*})^2] < M[(\theta - \theta_n^{\*\*})^2] $
 
 $\displaystyle \theta_n^{\*}$ эффективная, если:
 
-$\displaystyle M[(\theta - \theta_n^{\*})^2] = \inf_{\theta_n^{\*\*}} M[(\theta - \theta_n^{\*\*})^2] $; infimum - точная нижняя граница, т.е. $\displaystyle \theta_n^{\*}$ является эффективной оценкой, если её дисперсия является минимальной среди всех дисперсий оценок $\displaystyle \theta_n^{\*\*}$
+$\displaystyle M[(\theta - \theta_n^{\*})^2] = \inf_{\theta_n^{\*\*}} M[(\theta - \theta_n^{\*\*})^2] $; infimum - точная нижняя граница, т.е. $\displaystyle \theta_n^{\*}$ является эффективной оценкой, если её дисперсия является минимальной среди всех дисперсий оценок $\displaystyle \theta_n^{\*\*}$.
 
 
 ### Пример

@@ -17,7 +17,7 @@ $\displaystyle M[(\theta - \theta_n^{\*})^2] < M[(\theta - \theta_n^{\*\*})^2] $
 
 $\displaystyle \theta_n^{\*}$ эффективная, если:
 
-$\displaystyle M[(\theta - \theta_n^{\*})^2] = \inf_{\theta_n^{\*\*}} M[(\theta - \theta_n^{\*})^2] $
+$\displaystyle M[(\theta - \theta_n^{\*})^2] = \inf_{\theta_n^{\*\*}} M[(\theta - \theta_n^{\*\*})^2] $
 
 
 ### Пример

@@ -13,15 +13,15 @@
 ***Определение***
 
 Рассмотрим марковский процесс с t и конечным множеством состояний:
-Пусть $\displaystyle P_{ij}(t, \delta t)$ -- вероятность перейти за время t в состояние i, и за \delta t в состояние j
+Пусть $\displaystyle P_{ij}(t, \delta t)$ -- вероятность перейти за время t в состояние i, и за $\delta t$ в состояние j
 
-$P_{ij} = P(S(t + \delta t) = j \/_{S(t) = i})$
+$\displaystyle P_{ij} = P(S(t + \delta t) = j \/_{S(t) = i})$
 
-Пусть $ P_{ij} = \lambda _{ij}(t) + &Theta (\delta t)$
+Пусть $\displaystyle P_{ij} = \lambda _{ij}(t) + &Theta (\delta t)$
 
-\lambda_{ij}(t) -- поток переводящей системы из i в j
+$\lambda_{ij}(t)$ -- поток переводящей системы из i в j
 
-$p'(t) = \sum p_{i}(t) * \lambda _{ji}(t) - p_{i}(t) * \sum _{1}^{m} * \lambda _{ij}(t)$ -- система дифф. уравнений Колмагорова
+$\displaystyle p'(t) = \sum p_{i}(t) * \lambda _{ji}(t) - p_{i}(t) * \sum _{1}^{m} * \lambda _{ij}(t)$ -- система дифф. уравнений Колмагорова
 
 ## Создатель
 

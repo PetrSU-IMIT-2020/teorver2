@@ -13,9 +13,9 @@
 ***Определение***
 
 Рассмотрим марковский процесс с t и конечным множеством состояний:
-Пусть $\displaystyle P_{ij}(t, \delta t)$ -- вероятность перейти за время t в состояние i, и за $\delta t$ в состояние j
+Пусть $\displaystyle P_{ij}(t, \Delta t)$ -- вероятность перейти за время t в состояние i, и за $\delta t$ в состояние j
 
-$\displaystyle P_{ij} = P(S(t + \delta t) = j \/_{S(t) = i})$
+$\displaystyle P_{ij} = P(S(t + \Delta t) = j \/_{S(t) = i})$
 
 Пусть $\displaystyle P_{ij} = \lambda _{ij}(t) + θ (\delta t)$
 

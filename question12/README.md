@@ -17,7 +17,7 @@
 
 $\displaystyle P_{ij} = P(S(t + \delta t) = j \/_{S(t) = i})$
 
-Пусть $\displaystyle P_{ij} = \lambda _{ij}(t) + &Theta (\delta t)$
+Пусть $\displaystyle P_{ij} = \lambda _{ij}(t) + θ (\delta t)$
 
 $\lambda_{ij}(t)$ -- поток переводящей системы из i в j
 

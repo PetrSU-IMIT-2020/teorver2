@@ -16,7 +16,7 @@
 
 Квантиль распространения Лапласа $\rho$ задан
 
-$\Huge\displaystyle \int_{-t_rho}^{t_\rho} \xi_{n-1}(x) \; dx = \rho => P(-t_rho < \frac{\overline{x}-a}{\sqrt{m_2}}\sqrt{n-1} \sim t_{n-1}$ < t_rho) = \rho$
+$\Huge\displaystyle \int_{-t_\rho}^{t_\rho} \xi_{n-1}(x) \; dx = \rho => P(-t_\rho < \frac{\overline{x}-a}{\sqrt{m_2}}\sqrt{n-1} < t_\rho) = \rho$
 
 $\Huge\displaystyle (+) => \overline{x} - t_\rho\frac{m_2}{\sqrt{n-1}} < \alpha < \overline{x} + t_\rho\frac{m_2}{\sqrt{n-1}};$
 

@@ -14,15 +14,19 @@ $\Huge\frac{nm_2}{\sigma^2} \sim \chi_{n-1}^2$ - выборочная диспе
 
 ![](../question46/graph0.png)
 
-Пусть случайная велчина $\xi \sim N(\alpha,\sigma)m \alpha = ?$
+Пусть случайная велчина $\xi \sim N(\alpha,\sigma), \alpha = ?$
 
-По теореме 1 Фишера $\overline{x} \sim N (\alpha, \frac{\sigma},{\sqrt{n}})$
+По теореме 1 Фишера $$\overline{x} \sim N (\alpha, \frac{\sigma}{\sqrt{n}})$$
 
-Рассмотрим $\frac{\overline{x} - \alpha}{\sigma} // \sqrt{n}})$
+Рассмотрим $\frac{\overline{x} - \alpha}{\sigma / \sqrt{n}} \sim N(0,1)$
 
 Задаем квантиль распространения Лапласа $\rho$
 
-$P(|{\frac{\overline{x} - \alpha}{\sigma // \sqrt{n}}}| < t_\rho) = \rho => P(-t_\rho < \frac{\overline{x} - \alpha}{\sigma // \sqrt{n}} < t_\rho) = \rho
+$$\displaystyle P(|{\frac{\overline{x} - \alpha}{\sigma / \sqrt{n}}}| < t_\rho) = \rho => P(-t_\rho < \frac{\overline{x} - \alpha}{\sigma / \sqrt{n}} < t_\rho) = P(\overline{x} - t_\rho \frac{\sigma}{\sqrt{n}} < \alpha < \overline{x} + t_\rho \frac{\sigma}{\sqrt{n}})$$
+
+$$\displaystyle (\overline{x} - t_\rho \frac{\sigma}{\sqrt{n}}, \overline{x} + t_\rho \frac{\sigma}{\sqrt{n}})$ - доверительный интервал
+
+$t_\rho \frac{\sigma}{\sqrt{n}}$ - точность оценки
 
 ## Создатель
 

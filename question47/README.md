@@ -24,7 +24,7 @@ $\Huge\frac{nm_2}{\sigma^2} \sim \chi_{n-1}^2$ - выборочная диспе
 
 $$\displaystyle P(|{\frac{\overline{x} - \alpha}{\sigma / \sqrt{n}}}| < t_\rho) = \rho => P(-t_\rho < \frac{\overline{x} - \alpha}{\sigma / \sqrt{n}} < t_\rho) = P(\overline{x} - t_\rho \frac{\sigma}{\sqrt{n}} < \alpha < \overline{x} + t_\rho \frac{\sigma}{\sqrt{n}})$$
 
-$$\displaystyle (\overline{x} - t_\rho \frac{\sigma}{\sqrt{n}}, \overline{x} + t_\rho \frac{\sigma}{\sqrt{n}})$ - доверительный интервал
+$\displaystyle (\overline{x} - t_\rho \frac{\sigma}{\sqrt{n}}, \overline{x} + t_\rho \frac{\sigma}{\sqrt{n}})$ - доверительный интервал
 
 $t_\rho \frac{\sigma}{\sqrt{n}}$ - точность оценки
 

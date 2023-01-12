@@ -27,9 +27,9 @@ $\Huge \int_0^{x_1^2} K_{n-1}(x) dx = 1 - \frac{1-\rho}{2} = \frac{1+\rho}{2}$
 
 Т.к. $m_2  = \frac{(n-1)}{n}S_2$
 
-$\Huge\frac{(n-1)S_2}{x_2^2} < \sigma^2 < \frac{((n - 1)S_2}{x_1^2}$
+$\Huge\frac{(n-1)S_2}{x_2^2} < \sigma^2 < \frac{(n - 1)S_2}{x_1^2}$
 
-$\Huge \sqrt{\frac{(n-1)S_2}{x_2^2}} < \sigma < \sqrt{\frac{((n - 1)S_2}{x_1^2}}$
+$\Huge \sqrt{\frac{(n-1)S_2}{x_2^2}} < \sigma < \sqrt{\frac{(n - 1)S_2}{x_1^2}}$
 
 ## Создатель
 

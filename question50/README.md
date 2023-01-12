@@ -18,9 +18,9 @@ $\Huge P(x_1^2 <\frac{nm_2}{\sigma^2} < x_2^2) =\rho$
 
 $\Huge P(\frac{nm_2}{x_2^2} < \sigma^2 < \frac{nm_2}{x_1^2}) =\rho$ - для дисперсии
 
-$\Huge \int_0^{x_1^2} K_{n-1}(x) dx + \int_{x_2^2}^{+\infty} K_{n-1}(x) dx = 1 =>$
+$\Huge \int_0^{x_2^2} K_{n-1}(x) dx + \int_{x_2^2}^{+\infty} K_{n-1}(x) dx = 1 =>$
 
-$\Huge \int_0^{x_1^2} K_{n-1}(x) dx = 1 - \frac{1-\rho}{2} = \frac{1+\rho}{2}$
+$\Huge \int_0^{x_2^2} K_{n-1}(x) dx = 1 - \frac{1-\rho}{2} = \frac{1+\rho}{2}$
 
 
 

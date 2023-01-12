@@ -1,6 +1,6 @@
 # Билет №46. Метод Неймана построения доверительных интервалов.
 
-Пусть $\displaystyle S, \varrho(x,\Theta), x_1,..., x_n, \Theta_n^{\*}: \Theta =  \Theta_n^{\*}$
+Пусть $\displaystyle \xi, \rho(x,\Theta), x_1,..., x_n, \Theta_n^{\*}: \Theta =  \Theta_n^{\*}$
 
 $\displaystyle \Theta \in \[ \underline{\Theta_n^{\*}}, \overline{\Theta_n^{\*}} \]$ - интервальная оценка
 

@@ -20,7 +20,7 @@ $\Huge\displaystyle \int_{-t_\rho}^{t_\rho} \xi_{n-1}(x)dx = \rho => P(-t_\rho <
 
 $\Huge\displaystyle (+) => \overline{x} - t_\rho\frac{m_2}{\sqrt{n-1}} < \alpha < \overline{x} + t_\rho\frac{m_2}{\sqrt{n-1}};$
 
-$\Huge\displaystyle S_2 = \frac{1}{n-1} \sum_{i=1}{n}(x_i - \overline{x})^2 = \frac{n}{n-1}m_2, m_2 = \frac{n}{n-1}S_2 =>$
+$\Huge\displaystyle S_2 = \frac{1}{n-1} \sum_{i=1}^n(x_i - \overline{x})^2 = \frac{n}{n-1}m_2, m_2 = \frac{n}{n-1}S_2 =>$
 
 $\Huge\displaystyle (++) => \overline{x} - t_\rho\sqrt{\frac{\xi_2}{n}} < \alpha < \overline{x} + t_\rho\sqrt{\frac{S_2}{n}};$
 

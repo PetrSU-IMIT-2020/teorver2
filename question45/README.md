@@ -8,9 +8,7 @@
 
 ***Доверительным интервалом*** называется интервал со случайными границами ( $\underline{\Theta}$, $\overline{\Theta}$), в котором с заданной вероятностью $\gamma$ находится оцениваемый параметр $\theta$
 
-$P(\underline{\Theta}$ < \theta < $\overline{\Theta}) = \gamma$
-
-![asd](./q45i1.png)
+$P(\underline{\Theta} < \theta < \overline{\Theta}) = \gamma$
 
 Вероятность $\gamma$ называется доверительной вероятностью.
 

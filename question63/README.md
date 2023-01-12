@@ -1,6 +1,6 @@
 # Билет №63. Проверка гипотезы о независимости признаков на основании критерия Кендалла
 
-### Смотри [билет 62](https://github.com/PetrSU-IMIT-2020/teorver2/edit/main/question60).
+### Смотри [билет 62](https://github.com/PetrSU-IMIT-2020/teorver2/edit/main/question62).
 
 ~
 

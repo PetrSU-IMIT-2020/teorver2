@@ -14,6 +14,16 @@ $\Huge\frac{nm_2}{\sigma^2} \sim \chi_{n-1}^2$ - выборочная диспе
 
 ![](../question46/graph0.png)
 
+Пусть случайная велчина $\xi \sim N(\alpha,\sigma)m \alpha = ?$
+
+По теореме 1 Фишера $\overline{x} \sim N (\alpha, \frac{\sigma},{\sqrt{n}})$
+
+Рассмотрим $\frac{\overline{x} - \alpha}{\sigma} // \sqrt{n}})$
+
+Задаем квантиль распространения Лапласа $\rho$
+
+$P(|{\frac{\overline{x} - \alpha}{\sigma // \sqrt{n}}}| < t_\rho) = \rho => P(-t_\rho < \frac{\overline{x} - \alpha}{\sigma // \sqrt{n}} < t_\rho) = \rho
+
 ## Создатель
 
 Автор расписанного билета: Лисицкий Олег

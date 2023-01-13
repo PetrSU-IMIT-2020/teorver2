@@ -1,8 +1,8 @@
 # Билет №34. Асимптотически эффективная стат. оценка.
 
-$\Theta_n^{\*}$ - асссимптотически эффективная, если
+$\theta_n^{\*}$ - асссимптотически эффективная, если
 
-$\lim\limits_{n \to \infty}{\frac{M[(\Theta - \Theta_n^{\*})^2]}{\underset{\Theta_n^{\*\*}}{inf} \ M[(\Theta - \Theta_n^{\*\*})^2]}} = 1$
+$\lim\limits_{n \to \infty}{\frac{M[(\theta - \theta_n^{\*})^2]}{\underset{\theta_n^{\*\*}}{inf} \ M[(\theta - \theta_n^{\*\*})^2]}} = 1$
 
 $inf$ - точная нижняя граница
 
